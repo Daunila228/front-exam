@@ -19,7 +19,7 @@ export const getComments = async () => {
       {
         id: "3",
         body: "Thanks, we are happy to help",
-        username: "AirDNL",
+        username: "Author",
         userId: "2",
         parentId: "1",
         createdAt: "2024-04-16T23:00:33.010+02:00",
@@ -27,7 +27,7 @@ export const getComments = async () => {
       {
         id: "4",
         body: "Thank you so much!",
-        username: "AirDNL",
+        username: "Author",
         userId: "2",
         parentId: "2",
         createdAt: "2024-04-16T23:00:33.010+02:00",
